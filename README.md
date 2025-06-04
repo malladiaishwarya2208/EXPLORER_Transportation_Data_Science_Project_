@@ -1,5 +1,4 @@
 # EXPLORER_Transportation_Data_Science_Project_
-# EXPLORER: Transportation Data Science Project (TDSP)
 
 ## 🚀 Project Overview
 
