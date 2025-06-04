@@ -29,8 +29,4 @@ This project explores and analyzes transportation data using data science techni
 
 The dataset used in this project is the **NYC Motor Vehicle Collisions Dataset**, publicly available from [NYC Open Data](https://data.cityofnewyork.us/).
 
-## 📌 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
